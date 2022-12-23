@@ -9,6 +9,6 @@ asdfasdfdqweqwc
 ''' Usar para escrever as notas '''
 
 # Permite escrever um comentário
-print(123)  # Na frente
-# Abaixo
+print(123)  # Comentario Na frente
+# Comentario Abaixo
 print(456)
