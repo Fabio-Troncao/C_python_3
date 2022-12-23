@@ -2,10 +2,11 @@
 DocString
 E escrever o que eu
 quiser
-asdfasdfd
+em varias linhas
+asdfasdfdqweqwc
 """
 
-''' Usar para escrever suas notas '''
+''' Usar para escrever as notas '''
 
 # Permite escrever um comentário
 print(123)  # Na frente
