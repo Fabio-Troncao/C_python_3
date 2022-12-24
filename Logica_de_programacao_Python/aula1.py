@@ -1,5 +1,6 @@
 """
-DocString
+Interper do python lé pois nao é como comentario
+Pois é um - DocString
 E escrever o que eu
 quiser
 em varias linhas
