@@ -1,14 +1,15 @@
 # if / elif      / else
 # se / se não se / se não
-entrada = input('Você quer "entrar" ou "sair"? ')
+
+entrada = input('Quer "entrar" ou "sair"? ')
 
 if entrada == 'entrar':
-    print('Você entrou no sistema')
-
-    print(12341234)
+    print('Entrou no sistema')
+    #aqui so aparece o que estiver dentro dos blocos em que entra.
+    print(2023)
 elif entrada == 'sair':
-    print('Você saiu do sistema')
+    print('Saio do sistema')
 else:
-    print('Você não digitou nem entrar e nem sair.')
+    print('Nao digitou nem entrar nem sair.')
 
 print('FORA DOS BLOCOS')
