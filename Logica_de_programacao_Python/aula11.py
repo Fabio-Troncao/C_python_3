@@ -1,4 +1,4 @@
-# 1. (n + n)
+# 1. (n + n) # primeiro os parents a serem executados, os de dentro serao os primeiros
 # 2. **
 # 3. * / // %
 # 4. + -
