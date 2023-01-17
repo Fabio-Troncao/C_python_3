@@ -6,9 +6,12 @@ condicao2 = False
 condicao3 = True
 condicao4 = True
 
-#Na realizacao do DEBUG add o brackpoint e passamos linha a linha para visualizar melhor.
-#E em relacao a este codigo se pormos um brackpoint na linha 4
-# e passarmos linha a linha podemos visualisar que ele so vai entrar no bloco da Condicao 3
+# Ao observar as candicoes mesmo a condicao 4 tambem sendo True
+# A condicao 3 aparece primeiro entao sempre vai 
+# Ser realizado a condicao verdadeira que aparecer primeiro.
+
+# posso ter if sozinho mas nao elif ou else.
+#ja o else sempre vai ser a ultima condicao
 
 if condicao1:
     print('Este e o codigo do primeiro if condicao 1')
