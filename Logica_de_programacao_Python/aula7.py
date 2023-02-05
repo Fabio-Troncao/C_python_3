@@ -15,5 +15,5 @@ print(str(11)+ 'b')"""
 nome = 'Fábio'
 idade = 17
 maior_de_idade = idade >= 18
-print('nome', nome, 'Idade', idade)
+print('Nome', nome, 'Idade', idade)
 print('É Maior', maior_de_idade)

@@ -3,9 +3,11 @@ altura = 1.92
 peso = 101
 imc = ... # IMC = peso / (altura x altura)
 
+# ... Ellipsis 
+
 imc = peso / (altura * altura)
 print('Fabio Troncao tem', altura, 'de altura')
-print('pesa', peso, 'quilos e seu IMC e', imc)
+print('Pesa', peso, 'quilos e seu IMC e', imc)
 
 print(...)
 
