@@ -23,4 +23,4 @@ del lista[-1]
 # lista.clear()
 lista.insert(100, 5) # unsando o insert irei passar 2 argumentos. O primeiro é o indice e o segundo é o valor a inserir. 
 #Obs: o Um indice grande nao quer dizer que ele vai para essa posição, mas sim para a ultima posição, caso o indice seja maior que o ultimo da lista.
-print(lista[4])
+print(lista[5]) # obs: Tentar printar algo fora da lista ele ira dar erro.
